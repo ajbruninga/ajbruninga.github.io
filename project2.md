@@ -11,7 +11,7 @@ Data for Baltimore City and the proximity of vacant buildings.
 
 !VB_CD_201317.gif
 
-(https://github.com/ajbruninga/ajbruninga.github.io/blob/master/EPD_VB_201317.gif)
+![Alt text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/EPD_VB_201317.gif)
 
 EPD_VB_201317.gif
 
