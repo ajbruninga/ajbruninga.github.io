@@ -9,7 +9,7 @@ Data for Baltimore City and the proximity of vacant buildings.
 
 ### Maps
 
-![Alt Text](
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/VB_CD_201317.gif)
 
 ![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/EPD_VB_201317.gif)
 
