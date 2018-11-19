@@ -9,9 +9,9 @@ Data for Baltimore City and the proximity of vacant buildings.
 
 ### Maps
 
-[VB_CD_201317.gif]
+![VB_CD_201317.gif]
 
-[EPD_VB_201317.gif]
+![EPD_VB_201317.gif]
 
 ### My Code
 ```python
