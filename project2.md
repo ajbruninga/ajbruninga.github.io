@@ -4,6 +4,8 @@ A.J. Bruninga
 GES 486 Project 2
 ---
 
+
+
 For this project I decided to look at the expansion of vacant buildings in Baltimore City
 and to see if they had any effect on where Econview Projects were constructed. I got my data from the Baltimore City Open GIS Portal and used a State Plane projection. First I had to deal with a formatting issue on the Vacant Buildings layer because it had the dates as mmddyy and the year could not be easily used until it was extracted. With the note year available, I was able to use python to select out each year's vacant buildings data, save them as separate layers, and change some symbology. I then did a Count Points in Polygon of the vacant buildings per year for each council district. Making a GIF out of five years of the data was a good way to illustrate the increase in vacant buildings over time.
 
