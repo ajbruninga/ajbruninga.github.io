@@ -10,10 +10,10 @@ The more interesting part of my project came next as I analyzed the possible rel
 
 ### Maps
 
-![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/VB_CD_201317.gif)
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_2/VB_CD_201317.gif)
 
 
-![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/EPD_VB_201317.gif)
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_2/EPD_VB_201317.gif)
 
 
 
