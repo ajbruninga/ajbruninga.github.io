@@ -14,8 +14,8 @@ With the average aspect per tax plot in hand, I then reclassified the aspects in
 
 The second main variable in my definition of solar suitability was structure area per tax plot, under the assumption that installing solar panels on existing structures would be easier than finding plots of open land in the city. I multiplied the structure area per tax plot by the aspect scaling factor to get a final suitability statistic, which I then mapped.
 
-![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/bruninga_project_1/solar_map.png)
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_1/solar_map.png)
 
 Finally, I converted all the polygons to centroid points and did an IDW interpolation of my suitability factor to create a 3D map that shows areas in northwestern Baltimore where rooftop solar is the most viable.
 
-![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/bruninga_project_1/3d_map.png)
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_1/3d_map.png)
