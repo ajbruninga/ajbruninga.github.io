@@ -22,11 +22,11 @@ This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-### Project 2
+### Project 1
 
-![It's Fine Alt Text](project2_sfi/p2_teaser.png)
+![It's Fine Alt Text](bruninga_project_1/p1_teaser.png)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://ajbruninga.github.io/bruninga_project_1/bruninga_project_1.html)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
