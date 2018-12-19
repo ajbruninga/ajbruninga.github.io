@@ -66,7 +66,7 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 ### Project 3
 
-![It's Fine Alt Text](bruninga_project_3/p3_teaser.png)
+![It's Fine Alt Text](bruninga_project_3/p3_ph_teaser.png)
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
