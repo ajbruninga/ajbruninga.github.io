@@ -9,7 +9,7 @@ title: A.J. Bruninga's Portfolio
 
 ![It's Fine Alt Text](bruninga_lab_6/l6_teaser.png)
 
-[See more details here.](https://ajbruninga.github.io/bruninga_lab_6/bruninga_lab6.md)
+[See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/bruninga_lab_6/bruninga_lab6.html)
 
 This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
 
