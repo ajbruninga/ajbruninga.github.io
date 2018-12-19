@@ -64,9 +64,9 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-### Project 4
+### Project 3
 
-![It's Fine Alt Text](project4_demo/p4_teaser.png)
+![It's Fine Alt Text](bruninga_project_3/p3_teaser.png)
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
