@@ -11,7 +11,7 @@ title: A.J. Bruninga's Portfolio
 
 [See more details here.](https://ajbruninga.github.io/bruninga_lab_6/bruninga_lab6.html)
 
-This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
+For this lab I looked at the correlation between population age and house size in areas in Baltimore City.
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
