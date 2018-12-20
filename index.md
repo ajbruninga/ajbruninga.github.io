@@ -10,7 +10,6 @@ title: A.J. Bruninga's Portfolio
 ![It's Fine Alt Text](bruninga_lab_6/l6_teaser.png)
 
 [See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_lab_6/bruninga_lab6.md)
-[See more details here.](https://ajbruninga.github.io/bruninga_lab_6/bruninga_lab6.html)
 
 For this lab I looked at the correlation between population age and house size in areas in Baltimore City.
 
@@ -27,7 +26,7 @@ For this lab I looked at the correlation between population age and house size i
 
 ![It's Fine Alt Text](bruninga_project_1/p1_teaser.png)
 
-[See more details here.](https://ajbruninga.github.io/bruninga_project_1/bruninga_project_1.html)
+[See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_1/bruninga_project_1.md)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
@@ -37,10 +36,10 @@ The text below is smaller than the rest of this text. I used html tags for `smal
 
 Notice I used markdown inside the html tags. 
 
-<small>__Tools__: QGIS, R</small>
+<small>__Tools__: QGIS, 3D-mapping</small>
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+[Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
 
 </div>
 </div>
