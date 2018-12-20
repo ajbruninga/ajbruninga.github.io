@@ -13,7 +13,7 @@ title: A.J. Bruninga's Portfolio
 
 For this lab I looked at the correlation between population age and house size in areas in Baltimore City.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+<small>__Tools__: GeoDa, Moran's I</small>
 
 <small>__Data__: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
