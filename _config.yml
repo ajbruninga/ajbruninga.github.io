@@ -2,7 +2,7 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Lab 6: /bruninga_lab_6/bruninga_lab6.md
-  Project 1: /bruninga_project_1/bruninga_project_1.md
-  Project 2: /bruninga_project_2/bruninga_project_2.md
-  Project 3: /bruninga_project_3/bruninga_project_3.md
+  Lab 6: /bruninga_lab_6/bruninga_lab6.html
+  Project 1: /bruninga_project_1/bruninga_project_1.html
+  Project 2: /bruninga_project_2/bruninga_project_2.html
+  Project 3: /bruninga_project_3/bruninga_project_3.html
