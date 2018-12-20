@@ -28,9 +28,9 @@ For this lab I looked at the correlation between population age and house size i
 
 [See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_1/bruninga_project_1.md)
 
-This project looks at the potential for residential solar power in northwestern Baltimore.
+This project looks at the potential for residential solar power in northwestern Baltimore City.
 
-<small>__Tools__: QGIS, 3D-mapping</small>
+<small>__Tools__: QGIS, Interpolation, 3D-Mapping</small>
 
 <small>__Data__:
 [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
@@ -45,14 +45,15 @@ This project looks at the potential for residential solar power in northwestern 
 
 ![It's Fine Alt Text](bruninga_project_2/p2_teaser.png)
 
-[See more details here.](https://ajbruninga.github.io/bruninga_project_2/bruninga_project_2.md)
+[See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_2/project2.md)
 
-This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
+This project looks at the growth of vacant buildings in Baltimore City and the relationship between econview projects and their proximity to vacant buildings.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop
+<small>__Tools__: QGIS, Python, Photoshop
 
 <small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+[Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
+
 
 </div>
 
@@ -62,25 +63,16 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 ![It's Fine Alt Text](bruninga_project_3/p3_teaser.png)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_3/bruninga_project_3.md)
 
-Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut enim dui. Ut elementum, purus nec rhoncus sagittis, nibh nunc auctor nulla, eu condimentum nisi velit eget magna. Nulla feugiat tincidunt dictum. Vestibulum congue sapien elit. Maecenas non sodales ligula, quis tempor mi. 
 
-<small>__Tools__: QGIS, R
+
+<small>__Tools__: QGIS, Python, Interpolation, 3D-Mapping
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+[Maryland GIS Open Data Catalog](http://data.imap.maryland.gov/)</small>
 
 </div>
 </div>
 
 <!--This is just other markdown -->
-
-
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
-
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags. 
