@@ -19,9 +19,11 @@ For my first map showing the locations and densities of farmers' markets in Mary
 
 My second map illustrates the best farmers' markets in the state based on the assumption that the best ones are those closest to the agricultural land where the crops originate. For this map I downloaded some additional data from the MD Open Data Catalog, namely the vector layer of Maryland Agricultural Designations - Priority Preservation Areas. I realize this doesn't represent all agricultural land in the state, but it was the only data available and it may be that preservation areas are the ones growing the kind of crops that are sold in farmers' markets. While I can offer no proof, it could be that the areas in need of preservation got to that point by selling a diversity of market crops rather than the probably more economically viable industrial cash crops.
 
-Anyway, I made this map by using the Random Points Inside Polygons tool 
+Anyway, I made this map by using the Random Points Inside Polygons tool which created a point per 10 acres in each polygon of agricultural land. I then made a 10-mile buffer from each farmers' market and used the Count Points in Polygon tool again to add a new field to the farmers' market points which included the number of points within 10 miles. Thus the proximity of markets to agricultural land was based on the number of tens of acres within 10 miles. Next I ran an Inverse-Distance-Weighting interpolation based on that value and then clipped that raster to the extent of the MD counties layer. Finally, I created a 3D-map from the clipped IDW interpolation and changed the symbology to look better. 
 
 ![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_3/md_fm_cnt.png)
+
+Peaks on this map are farmers' markets that are closest to large amounts of agriculutural land, while valleys indicate markets further from farms, with zero values representing markets with no agricultural land within 10 miles. As expected, the best farmers' markets are found in rural areas on the eastern shore, with smaller peaks in southern MD and north of Baltimore. 
 
 
 ### My Code
