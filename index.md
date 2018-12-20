@@ -28,13 +28,7 @@ For this lab I looked at the correlation between population age and house size i
 
 [See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_1/bruninga_project_1.md)
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
-
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags. 
+This project looks at the potential for residential solar power in northwestern Baltimore.
 
 <small>__Tools__: QGIS, 3D-mapping</small>
 
@@ -81,3 +75,12 @@ Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut e
 </div>
 
 <!--This is just other markdown -->
+
+
+The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
+
+```html
+<small>Text to *make* small.</small>
+```
+
+Notice I used markdown inside the html tags. 
