@@ -9,7 +9,7 @@ title: A.J. Bruninga's Portfolio
 
 ![It's Fine Alt Text](bruninga_lab_6/l6_teaser.png)
 
-[See more details here.](https://ajbruninga.github.io/bruninga_lab_6/bruninga_lab6.html)
+[See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_lab_6/bruninga_lab6.html)
 
 For this lab I looked at the correlation between population age and house size in areas in Baltimore City.
 
