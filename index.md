@@ -16,7 +16,7 @@ For this lab I looked at the correlation between population age and house size i
 <small>__Tools__: GeoDa, Moran's I</small>
 
 <small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+[Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
 
 </div>
 
