@@ -65,7 +65,7 @@ This project looks at the growth of vacant buildings in Baltimore City and the r
 
 [See more details here.](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_3/bruninga_project_3.md)
 
-
+For this project I tried to determine the best farmers' markets in Maryland based on their distance from agricultural land.
 
 <small>__Tools__: QGIS, Python, Interpolation, 3D-Mapping
 
