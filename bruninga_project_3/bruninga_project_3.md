@@ -26,24 +26,17 @@ from qgis.core import *
 import processing
 
 
-cd = iface.addVectorLayer('Z:/ges486/Project_2/shapefiles/Council_District.shp', 'Council_District', 'ogr')
-VB_200818 = iface.addVectorLayer('Z:/ges486/Project_2/shapefiles/VB_200818.shp', 'VB_200818', 'ogr')
-EPD_200818 = iface.addVectorLayer('Z:/ges486/Project_2/shapefiles/EPD_200818.shp', 'EPD_200818', 'ogr')
+md_fm = iface.addVectorLayer('C:/Users/ajbru_000/Documents/UMBC/486/Project_3/shapefiles/md_fm_proj.shp', 'MD Farmers Markets', 'ogr')
+md_counties = iface.addVectorLayer('C:/Users/ajbru_000/Documents/UMBC/486/Project_3/shapefiles/md_counties.shp', 'MD Counties', 'ogr')
 
-renderer = cd.renderer()
-symbol = renderer.symbol()
-symbol.setOpacity(0.25)
-
-VB_200818.selectByExpression("NOTE_YEAR = 2013")
-QgsVectorFileWriter.writeAsVectorFormat(VB_200818, 'Z:/ges486/Project_2/shapefiles/VB_2013p.shp', 'utf-8', VB_200818.crs(), 'ESRI Shapefile', True)
-VB_2013 = iface.addVectorLayer('Z:/ges486/Project_2/shapefiles/VB_2013p.shp', 'VB_2013p', 'ogr')
-
-EPD_200818.selectByExpression("CSYear = 2013")
-QgsVectorFileWriter.writeAsVectorFormat(EPD_200818, 'Z:/ges486/Project_2/shapefiles/EPD_2013p.shp', 'utf-8', EPD_200818.crs(), 'ESRI Shapefile', True)
-EPD_2013 = iface.addVectorLayer('Z:/ges486/Project_2/shapefiles/EPD_2013p.shp', 'EPD_2013p', 'ogr')
-
-sym = QgsMarkerSymbol.createSimple({'name':'circle', 'color':'blue', 'size':'1'})
-rend = VB_2013.renderer()
+sym = QgsMarkerSymbol.createSimple({'name':'circle', 'color':'blue', 'size':'0.4'})
+rend = md_fm.renderer()
 rend.setSymbol(sym)
-sym.setOpacity(0.5)
+sym.setOpacity(0.8)
+
+renderer = md_counties.renderer()
+symbol = renderer.symbol()
+symbol.setColor(QColor(Qt.white))
+symbol.setOpacity(0.5)
+active_layer.triggerRepaint()
 ```
