@@ -7,6 +7,9 @@ GES 486 Project 3
 ---
 
 
+My goal for this project was to make a map showing the location and density of farmers' markets in Maryland. My question was then to determine the best farmers' markets in the state by calculating their proximity to agricultural land. Theoretically the best markets would be those closest to the farms themselves. I got my data from the Maryland GIS Open Data Catalog (http://data.imap.maryland.gov/) and used a WGS 84 projection for the first map and a MD State Plane projection for the 3D map. 
+
+
 
 
 ### Maps
