@@ -1,4 +1,14 @@
 ---
+title: Lab 6
+feature_image: "l6_feature.png"
+feature_text: |
+  ## Storefront Index
+  This is a demo of a project page for GES.
+  
+---
+
+
+---
 A.J. Bruninga
 ---
 GES Lab 6
