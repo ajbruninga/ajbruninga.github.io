@@ -11,10 +11,10 @@ GES 486 Project 3
 
 ### Maps
 
-![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/VB_CD_201317.gif)
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_3/md_fm_hex.png)
 
 
-![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/EPD_VB_201317.gif)
+![Alt Text](https://github.com/ajbruninga/ajbruninga.github.io/blob/master/bruninga_project_3/md_fm_cnt.png)
 
 
 ### My Code
